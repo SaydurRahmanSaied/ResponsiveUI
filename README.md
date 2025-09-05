@@ -3,7 +3,7 @@
 A simple HTML + CSS responsive product card grid layout.
 This project displays a list of featured products with sale badges, star ratings, and action buttons. <hr>
 
-📌 Features
+<h1>📌 Features</h1>
 
 ✅ Clean & responsive design
 ✅ Grid layout with cards
@@ -25,7 +25,7 @@ project-folder/
 
 <hr>
 
-🚀 Getting Started
+<h1>🚀 Getting Started</h1>
 
 Clone this repository:
 git clone https://github.com/your-username/featured-products-ui.git
@@ -37,7 +37,7 @@ Could you open the index.html file in your browser?
 
 <hr>
 
-Preview
+<h1>Preview</h1>
 
 💻 Desktop View:
 
@@ -47,20 +47,20 @@ Preview
 
 <hr>
 
-🛠️ Technologies Used
+<h1>🛠️ Technologies Used</h1>
 
 HTML5 – Structure
 CSS3 – Styling & responsiveness
 
 <hr>
 
-Screenshots
+<h1>Screenshots</h1>
 ### 🖥️ Desktop View  
 ![Desktop Screenshot](images/desktop-view.png)
 
 <hr>
 
-🤝 Contributing
+<h1>🤝 Contributing</h1>
 
 Want to improve this project?
 Fork the repo
@@ -68,6 +68,6 @@ Create a new branch
 Make your changes
 Submit a pull request
 
-License
+<h1>License</h1>
 This project is open-source and available for free use.
 
