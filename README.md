@@ -1,4 +1,4 @@
-🛍️ Featured Products UI
+<h1>🛍️ Featured Products UI</h1>
 
 A simple HTML + CSS responsive product card grid layout.
 This project displays a list of featured products with sale badges, star ratings, and action buttons. <hr>
