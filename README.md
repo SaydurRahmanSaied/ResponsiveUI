@@ -55,10 +55,10 @@ CSS3 – Styling & responsiveness
 <hr>
 
 <h1>Screenshots</h1>
-### 🖥️ Desktop View  
+🖥️ Desktop View  
 ![Desktop Screenshot](images/desktop-view.png)
 
-<hr>
+
 
 <h1>🤝 Contributing</h1>
 
