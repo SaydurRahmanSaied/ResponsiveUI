@@ -1,7 +1,7 @@
 🛍️ Featured Products UI
 
 A simple HTML + CSS responsive product card grid layout.
-This project displays a list of featured products with sale badges, star ratings, and action buttons.
+This project displays a list of featured products with sale badges, star ratings, and action buttons. <hr>
 
 📌 Features
 
@@ -12,6 +12,8 @@ This project displays a list of featured products with sale badges, star ratings
 ✅ Hover effects for interactivity
 ✅ "Load More Products" button
 
+<hr>
+
 project-folder/
 │── index.html
 │── css/
@@ -20,6 +22,8 @@ project-folder/
 │   ├── star.png
 │   ├── star1.png
 │   └── (other icons/images)
+
+<hr>
 
 🚀 Getting Started
 
@@ -31,6 +35,8 @@ cd featured-products-ui
 
 Could you open the index.html file in your browser?
 
+<hr>
+
 Preview
 
 💻 Desktop View:
@@ -39,14 +45,20 @@ Preview
 📱 Mobile View:
 1 product per row
 
+<hr>
+
 🛠️ Technologies Used
 
 HTML5 – Structure
 CSS3 – Styling & responsiveness
 
+<hr>
+
 Screenshots
 ### 🖥️ Desktop View  
 ![Desktop Screenshot](images/desktop-view.png)
+
+<hr>
 
 🤝 Contributing
 
