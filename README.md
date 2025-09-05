@@ -1,16 +1,16 @@
 <h1>🛍️ Featured Products UI</h1>
 
-A simple HTML + CSS responsive product card grid layout.
+A simple HTML + CSS responsive product card grid layout.<br>
 This project displays a list of featured products with sale badges, star ratings, and action buttons. <hr>
 
 <h1>📌 Features</h1>
 
-✅ Clean & responsive design
-✅ Grid layout with cards
-✅ Product details section (title, price, rating, reviews)
-✅ "Sale" badge & wishlist button
-✅ Hover effects for interactivity
-✅ "Load More Products" button
+✅ Clean & responsive design<br>
+✅ Grid layout with cards<br>
+✅ Product details section (title, price, rating, reviews)<br>
+✅ "Sale" badge & wishlist button<br>
+✅ Hover effects for interactivity<br>
+✅ "Load More Products" button<br>
 
 <hr>
 
@@ -27,29 +27,28 @@ project-folder/
 
 <h1>🚀 Getting Started</h1>
 
-Clone this repository:
-git clone https://github.com/your-username/featured-products-ui.git
+Clone this repository:<br>
+git clone https://github.com/your-username/featured-products-ui.git <br>
 
-Navigate to the project folder:
-cd featured-products-ui
+Navigate to the project folder: <br>
+cd featured-products-ui <br>
 
-Could you open the index.html file in your browser?
+Could you open the index.html file in your browser? <br>
 
 <hr>
 
 <h1>Preview</h1>
 
-💻 Desktop View:
-
-4 products per row
-📱 Mobile View:
+💻 Desktop View: <br>
+4 products per row <br>
+📱 Mobile View:<br>
 1 product per row
 
 <hr>
 
 <h1>🛠️ Technologies Used</h1>
 
-HTML5 – Structure
+HTML5 – Structure<br>
 CSS3 – Styling & responsiveness
 
 <hr>
@@ -63,10 +62,10 @@ CSS3 – Styling & responsiveness
 
 <h1>🤝 Contributing</h1>
 
-Want to improve this project?
-Fork the repo
-Create a new branch
-Make your changes
+Want to improve this project?<br>
+Fork the repo<br>
+Create a new branch<br>
+Make your changes<br>
 Submit a pull request
 
 <h1>License</h1>
